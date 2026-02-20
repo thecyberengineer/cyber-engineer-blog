@@ -1,0 +1,22 @@
+baseURL = "https://thecyberengineer.github.io/cyber-engineer-blog/"
+languageCode = "en-us"
+title = "The Cyber Engineer Blog"
+theme = "PaperMod"
+
+[author]
+name = "The Cyber Engineer"
+
+[params]
+author = "The Cyber Engineer"
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+
+[params.profileMode]
+enabled = true
+title = "The Cyber Engineer"
+subtitle = "SIEM, detection engineering, and cloud security build logs."
+buttons = [
+  { name = "Posts", url = "/posts" }
+]
