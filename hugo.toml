@@ -18,5 +18,5 @@ enabled = true
 title = "The Cyber Engineer"
 subtitle = "SIEM, detection engineering, and cloud security build logs."
 buttons = [
-  { name = "Posts", url = "/posts" }
+  { name = "Posts", url = "posts/" }
 ]
